@@ -1,2 +1,1 @@
-code for conference paper "FedSAE: A Novel Self-Adaptive Federated Learning Framework in Heterogeneous Systems" and journal paper "Federated Learning with Workload-aware Client Scheduling in Heterogeneous
-Systems" 
+code for conference paper "FedSAE: A Novel Self-Adaptive Federated Learning Framework in Heterogeneous Systems" and journal paper "Federated Learning with Workload-aware Client Scheduling in Heterogeneous Systems" 
